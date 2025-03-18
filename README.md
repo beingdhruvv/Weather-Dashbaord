@@ -81,16 +81,16 @@ cd weather-dashboard
 ### 🌤️ Weather Dashboard Previews
 
 #### 🌎 Home Page
-![Home Page](assets/screenshot1.png)
+![Home Page](assets/Screenshot(1).png)
 
 #### 🔍 Search Feature
-![Search Feature](assets/screenshot2.png)
+![Search Feature](assets/Screenshot(2).png)
 
 #### 📊 Weather Trends (Charts)
-![Weather Trends](assets/screenshot3.png)
+![Weather Trends](assets/Screenshot(3).png)
 
 #### 🗺️ Interactive Map
-![Interactive Map](assets/screenshot4.png)
+![Interactive Map](assets/Screenshot(4).png)
 
 ---
 
