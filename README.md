@@ -83,7 +83,7 @@ cd weather-dashboard
 #### 🌎 Home Page
 ![Home Page](assets/Screenshot(1).png)
 
-#### 🔍 Search Feature
+#### 🔍 Future Forecast
 ![Search Feature](assets/Screenshot(2).png)
 
 #### 📊 Weather Trends (Charts)
