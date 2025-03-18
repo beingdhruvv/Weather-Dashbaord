@@ -31,7 +31,7 @@ A modern and interactive **Weather Dashboard** that provides **real-time weather
 
 ### 🏗️ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/beingdhruvv/weather-dashboard.git
 cd weather-dashboard
 ```
 
