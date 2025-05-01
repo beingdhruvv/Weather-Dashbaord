@@ -94,9 +94,14 @@ cd weather-dashboard
 
 ---
 
-## 👨‍💻 Contributors
+## 👨‍💻 Author
 
  **Dhruv Suthar** - [GitHub](https://github.com/beingdhruvv)  
+
+---
+
+## 👨‍💻 Contributor 
+
  **Pratham Patel** - [GitHub](https://github.com/Prathampatel10)  
 
 ---
