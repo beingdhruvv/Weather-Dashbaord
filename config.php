@@ -10,7 +10,7 @@
  */
 
 // API Configuration
-define('API_KEY', 'PVT6J6DDUDMC9U9A4EEZV3HZL');
+define('API_KEY', 'YOUR_API_KEY');
 define('CACHE_TIME', 3600); // Cache duration in seconds (1 hour)
 
 // Set response headers
